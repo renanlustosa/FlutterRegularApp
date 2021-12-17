@@ -1,6 +1,6 @@
 # ola_mundo
 
-A new Flutter project.
+App com objetivo a desvendar o Flutter
 
 ## Getting Started
 
