@@ -16,6 +16,20 @@ class HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      drawer: Drawer(
+        child: Column(children: [
+          const UserAccountsDrawerHeader(
+              accountName: Text('Renan Lust'),
+              accountEmail: Text('renan@teste.com')),
+          ListTile(
+              leading: const Icon(Icons.home),
+              title: const Text('Inicio'),
+              subtitle: const Text('tela de inicio'),
+              onTap: () {
+                Navigator.of(context).pushReplacementNamed('/');
+              })
+        ]),
+      ),
       appBar: AppBar(
         title: const Text('Home Page'),
         actions: const [
