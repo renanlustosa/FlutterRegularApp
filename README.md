@@ -3,8 +3,11 @@
 #### Description: 
   
   • A beginner project that let you log in with an email e password
+  
   • Let you use normal and dark mode
+  
   • Project in constant evolution
+  
   • More updates on the way!
 
 # Android App: ola_mundo
