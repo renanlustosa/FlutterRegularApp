@@ -1,4 +1,4 @@
-# YOUR PROJECT TITLE
+# FLUTTER REGULAR APP 1.0
 #### Video Demo:  <URL HERE>
 #### Description: 
   
