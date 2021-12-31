@@ -1,6 +1,15 @@
-# ola_mundo
+# YOUR PROJECT TITLE
+#### Video Demo:  <URL HERE>
+#### Description: 
+  
+  • A beginner project that let you log in with an email e password
+  • Let you use normal and dark mode
+  • Project in constant evolution
+  • More updates on the way!
 
-App com objetivo a desvendar o Flutter
+# Android App: ola_mundo
+
+An app with the aim of discovering Flutter's tools!
 
 ## Getting Started
 
