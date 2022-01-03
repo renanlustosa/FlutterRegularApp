@@ -1,6 +1,6 @@
 # FLUTTER REGULAR APP 1.0
 #### Video Demo:  <URL HERE>
-#### Description: 
+#### Description: https://www.youtube.com/watch?v=dNRBOwqpUAA
   
   • A beginner project that let you log in with an email e password
   
